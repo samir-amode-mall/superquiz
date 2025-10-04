@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id answer1
+id answer2
+id answer3
+id answer4
+id container
+id next
+id playButton
+id question
+id usernameEditText
+id validityText
+layout activity_main
+layout fragment_quiz
+layout fragment_welcome
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.SuperQuiz
+style Theme.SuperQuiz
+xml backup_rules
+xml data_extraction_rules
